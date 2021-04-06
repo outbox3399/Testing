@@ -1,0 +1,8 @@
+  {
+    "url":"https://www.phptravels.net/home",
+	"username": "Admin",
+	"password": "admin123",
+	"invalidUsername": "AutomationTestuser@gmail.com",
+	"invalidPassword":"123",
+	"browser":"chrome"
+}
